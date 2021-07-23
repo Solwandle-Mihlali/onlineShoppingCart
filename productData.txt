@@ -1,0 +1,9 @@
+IPHONE 11,15000,Images\\iphone 11,2
+Playstation 5,10000,Images\\ps5,5
+Xbox x Series, 10000,Images\\xbox x series,5
+P40 Pro,16500,Images\\p40 pro,5
+Samsung Smart Watch,6000,Images\\samsung smart watch,2
+Samsung S20,17000,Images\\samsung smart watch,1
+Acer Pc,34000,Images\\acer,3
+
+other products added manually 

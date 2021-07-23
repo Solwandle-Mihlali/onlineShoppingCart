@@ -1,0 +1,169 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    background-image: url(Images/back.jpg);
+
+}
+
+
+
+
+
+
+
+ #footer
+{ margin-left: auto; 
+  margin-right: auto;
+}
+
+#footer
+{ width: 916px;
+  font-family: 'trebuchet ms', sans-serif;
+  font-size: 90%;
+  height: 28px;
+  padding: 20px 0 5px 0;
+  text-align: center; 
+  background: transparent;
+  color: #EEF3CD;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;}
+
+#footer p
+{ padding-top: 200;
+}
+
+#footer a, #footer a:hover
+{ color: #EEF3CD;
+  text-decoration: none;}
+
+#footer a:hover
+{ text-decoration: underline;}
+
+#footer a
+{
+
+    display: inline-block;
+    background: linear-gradient(45deg,rgb(255, 0, 0),rgb(255, 0, 0));
+    border-radius:6px;
+    padding:10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+    box-shadow: 3px 8px 22px rgb(255, 154, 2);
+}
+
+
+#logo_text h1, #logo_text h1 a, #logo_text h1 a:hover 
+{ padding-left: 10px 0 0 0;
+  color: #FFF;
+  text-decoration: none;
+  border: 0;
+  font-size: 500%;
+  font-weight: 160;
+
+
+}
+
+#logo_text h1 a .logo_colour
+{ color: #fd0000;}
+
+#logo_text a:hover .logo_colour
+{ color: rgb(255, 154, 2);}
+
+#logo_text h2
+{ font-size: 120%;
+  padding: 4px 0 0 0;
+  color: rgb(255, 154, 2);}
+
+.welcome h1
+{
+  color: #EEF3CD;
+  text-decoration: none;
+  padding-top: 100px;
+  padding-left: 250px;
+  font-size: 160px;
+  font-weight: 100;
+  margin-top: 24px;
+  margin-bottom: 15px;
+}
+
+.welcome p 
+{
+
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 24px;
+    margin-bottom: 15px;
+    color:rgb(228, 243, 16)
+}
+
+.welcome
+{
+
+    margin-top: 1%;
+    margin-left: 10%;
+}
+
+
+
+
+.registration_form h2
+{
+
+   color:rgb(255, 0, 0);
+   padding-left: 300px;
+   font-size: 100px;
+   font-weight: 100;
+}
+
+.registration_form form
+{
+    padding-left: 500px;
+    padding-top: 100px;
+    
+}
+
+.registration_form table, tr ,td ,input
+{
+    display:ruby-base-container;
+    background: linear-gradient(45deg,rgb(255, 0, 0),rgb(255, 0, 0));
+    border-radius:6px;
+    padding:10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+    box-shadow: 3px 8px 22px rgb(255, 154, 2);
+}
+
+
+
+.login_form h2
+{
+
+   color:rgb(255, 0, 0);
+   padding-left: 500px;
+   font-size: 100px;
+   font-weight: 100;
+}
+
+.login_form form
+{
+    padding-left: 500px;
+    padding-top: 100px;
+    
+}
+
+.login_form table, tr ,td ,input
+{
+    display:ruby-base-container;
+    background: linear-gradient(45deg,rgb(255, 0, 0),rgb(255, 0, 0));
+    border-radius:6px;
+    padding:10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+    box-shadow: 3px 8px 22px rgb(255, 154, 2);
+
+}
+
